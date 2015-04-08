@@ -1,0 +1,12 @@
+DOM
+part	price(1/100)(DigiKey)	price(1//100)(Mouser)
+MCP4728-E/UN(A1)	2.27/1.44	2.06/1.44
+ULN2803AN	2.33/1.69	2.34/1.50
+10k	0.1/0.0096(P10KGCT-ND)	0.1/0.009(667-ERJ-3EKF1002V)
+
+part	price(1/10)(Adafruit)
+phoenix-254x9	3.05/2.75
+phoenix-350x5	6.90(for 5)
+dc barrel jack	0.95/0.86
+
+
